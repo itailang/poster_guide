@@ -19,12 +19,12 @@ At the bottom, there may be references to other works mentioned on the poster.
 
 For the poster's body, I recommend a general structure of three columns. Since the poster size is relatively large, about 2 meters in width by 1 meter in height, it is convenient to present it by going over the columns from left to right.
 
-In order to draw a crowd, the poster should be pleasant to the eye. My recommendation is to focus on visuals, mainly figures and a table if needed, without too much text. Nonetheless, adding concise text explaining the main message you want to convey from the visual is very helpful.
+In order to draw a crowd, the poster should be pleasant to the eye. My recommendation is to focus on visuals, mainly figures and a table if needed, without too much text. Nonetheless, adding concise text explaining the main message you want to convey from the visual is very helpful. Also, remember that color is your friend. Use color to emphasize elements and text in the poster. But do not go overboard and avoid clutter.  Stick to several large visual elements, some text, and coherent coloring to make your poster eye-catching and memorable.
 
-I also recommend investing time in the visual poster organization. For example, keep the same spacing between elements, center text and visuals, and keep the font type and size consistent across the poster. Also, it is good to leave a gap of about half an inch (50 points in draw.io) from the poster's edge to allow for printing tolerance.
+I also recommend investing time in the visual poster organization. For example, keep the same spacing between elements, center text and visuals, and keep the font type and size consistent across the poster. Note that draw.io enables organizing the poster with high precision by determining the size and location of elements numerically (explained later under the [Drawing tool](#drawing-tool) section). I suggest doing this rather than relying solely on the eye. In addition, it is good to leave a gap of about half an inch (50 points in draw.io) from the poster's edge to allow for printing tolerance.
 
 ## Content
-Once you have the listeners, it is time to present. I think the poster, along with your explanation, should answer the following questions:
+Once you have the audience, it is time for the show. I think the poster, along with your explanations, should answer the following questions:
 * What did you do? (and why)
 * How did you do it?
 * What did you get?
@@ -35,9 +35,11 @@ The `Contributions` block further answers the first question and explains what's
 
 An immediate thing I would like to know about a new work is whether its code is publicly available. The `Implementation` block informs about that and routes to the code repo with a QR code. I recommend using [qrcode-monkey](https://www.qrcode-monkey.com/). It is free and easy to use.
 
-The `Method` block answers the **"How did you do it"** question. It may include a system diagram, an illustration of the losses, accentuate an important method component, and so on.
+The `Method` block answers the **"How did you do it"** question. It may include a system diagram, an illustration of the losses, accentuate an important method component, and so on. You will most probably focus on this block during the poster presentation. Make sure its content is informative and clear, such that it will enable you to explain your method easily and intuitively.
 
-After the audience knows what you did and how, it is time to showcase **"What did you get"**. It is done by the `Quantitative Results` and `Qualitative Results` blocks. This is the place to show the exciting results of your work by using graphs, images, tables, and some accompanying text. I recommend emphasizing the most interesting findings with visual elements such as rectangles, circles, and arrows.
+After the listeners know what you did and how, it is time to showcase **"What did you get"**. It is done by the `Quantitative Results` and `Qualitative Results` blocks. This is the place to show the exciting results of your work by using graphs, images, tables, and some accompanying text. I recommend emphasizing the most interesting findings with visual elements such as rectangles, circles, and arrows.
+
+The poster is not a paper. You may use the visuals that best serve the purpose of presenting your work, whether they are from the main paper or the supplemental material. Typically, the teaser figure goes to the `Concept` block, an overview system diagram from the main body is placed under the `Method` block, and the most important/interesting/appealing results figures and tables from the paper or supplementary are included in the `Results` blocks.
 
 ## Preparing the Poster
 
@@ -45,7 +47,7 @@ After the audience knows what you did and how, it is time to showcase **"What di
 I recommend making the poster with the [draw.io online drawing tool](https://app.diagrams.net/). It is free of charge and very easy to use. Here are several tips about using draw.io.
 
 Revisions:  
-Allow draw.io to connect to Google Drive. This way, revisions will be saved automatically.
+Allow draw.io to connect to Google Drive. This way, revisions will be saved automatically. Nonetheless, if you are satisfied with a specific version, say, after completing a full draft, it is beneficial to export it to a separate file and have an explicit reference for later updates.
 
 Page size:  
 Set the `Paper Size` according to the conference's requirment for the poster. It will enable you to export a PDF file for printing at the exact expected size. To do so, go to the `Diagram` tab on the right side -> Under `Paper Size`, select `Custom`, and enter the width and height in inches. For exmaple:
@@ -71,6 +73,18 @@ For the PNG format, note that you can select the percentage of the image that wi
 
 ### Creation process
 I recommend preparing the poster in a coarse-to-fine manner. First, set the poster size as explained above. Then, make a coarse draft by roughly placing the visuals you want to include. Continue with adding text and refining the location and size of the visuals. Finally, polish the poster by verifying alignment, sizing, and font type. Also, proofread the text and fix any typos or grammatical issues.
+
+### Printing
+Usually, the conference organizers arrange a local printing offer. I recommend using this service rather than printing the poster in the home country. The local printing office produces the poster in the designated size and saves the commute to the conference location.
+
+## Presenting the poster
+The poster is allocated to a time slot during the conference with a preparation period before. I recommend hanging it as soon as possible. It can increase your work's exposure, as people commonly come and discuss existing posters even before the session starts.
+
+Check if the conference organizers provide materials to hang up the poster. Typically, pins are available on the presentation board. In any case, I recommend bringing double-sided duct tape and using it instead.
+
+A poster session is about two hours long, in which you are going to talk most of the time. Try to coordinate with a co-author for backup or for presenting in parallel. Also, bring something to drink to keep on talking.
+
+Lastly, presenting a poster is an experience you would most likely want to remember and share. Make sure to have someone taking pictures!
 
 ## Additional Resources
 
