@@ -91,9 +91,17 @@ Lastly, presenting a poster is an experience you would most likely want to remem
 ### Poster variations
 Here are additional poster examples demonstrating variations of the poster format described above.
 
-[SampleNet](https://arxiv.org/abs/1912.03663):
+[SAGA](https://stoliktomer.github.io/SAGA/):
 
-![samplenet_poster](./assets/samplenet_cvpr2020_poster_3600x2400.png)
+![saga_poster](./assets/saga_iccv23_poster_3645x2140.png)
+
+[Doctoral Consortium](https://cvpr2023.thecvf.com/Conferences/2023/CallForDoctoralConsortium):
+
+![consortium_poster](./assets/doctoral_consortium_cvpr2023_poster_2560x1280.png)
+
+[3D Highlighter](https://threedle.github.io/3DHighlighter/):
+
+![3dhighlighter_poster](./assets/3dhighlighter_cvpr2023_poster_2560x1280.png)
 
 [DPC](https://arxiv.org/abs/2110.08636):
 
@@ -103,13 +111,9 @@ Here are additional poster examples demonstrating variations of the poster forma
 
 ![attacks_poster](./assets/attacks_3dv2021_poster_2340x1650.png)
 
-Doctoral consortium:
+[SampleNet](https://arxiv.org/abs/1912.03663):
 
-![consortium_poster](./assets/doctoral_consortium_cvpr2023_poster_2560x1280.png)
-
-[3D Highlighter](https://threedle.github.io/3DHighlighter/):
-
-![3dhighlighter_poster](./assets/3dhighlighter_cvpr2023_poster_2560x1280.png)
+![samplenet_poster](./assets/samplenet_cvpr2020_poster_3600x2400.png)
 
 ### External resources
 Additional poster-related information is provided below.
