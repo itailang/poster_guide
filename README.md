@@ -91,9 +91,14 @@ Lastly, presenting a poster is an experience you would most likely want to remem
 ### Poster variations
 Here are additional poster examples demonstrating variations of the poster format described above.
 
+[3D Paintbrush](https://threedle.github.io/3d-paintbrush/):
+
+![3dpaintbrush_poster](./assets/3d_paintbrush_cvpr2024_poster_2560x1280.png)
+[[source file](./assets/3d_paintbrush_cvpr2024_poster.drawio)]
+
 [SAGA](https://stoliktomer.github.io/SAGA/):
 
-![saga_poster](./assets/saga_iccv23_poster_3645x2140.png)
+![saga_poster](./assets/saga_iccv2023_poster_3645x2140.png)
 
 [Doctoral Consortium](https://cvpr2023.thecvf.com/Conferences/2023/CallForDoctoralConsortium):
 
@@ -127,7 +132,7 @@ Additional poster-related information is provided below.
   > Andreas Geiger, Judy Hoffman, Lana Lazebnik, Ross Girshick and Vladlen Koltun  
   > CVPR 2023 Program Chairs
 
-  For convenience, the CVPR 2023 PowerPoint poster template is also available [here](./assets/cvpr23_poster_template.pptx).
+  For convenience, the CVPR 2023 PowerPoint poster template is also available [here](./assets/cvpr2023_poster_template.pptx).
 
 * [Jon Barron's advice on presenting a poster](https://twitter.com/jon_barron/status/1670890115546116111).
 
