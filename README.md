@@ -95,6 +95,11 @@ Lastly, presenting a poster is an experience you would most likely want to remem
 ### Poster variations
 Here are additional poster examples demonstrating variations of the poster format described above.
 
+[iSeg](https://threedle.github.io/iSeg/):
+
+![iseg_poster](./assets/iseg_siggraphasia2024_poster_2336x1654.png)
+[[source file](./assets/iseg_siggraphasia2024_poster.drawio)]
+
 [3D Paintbrush](https://threedle.github.io/3d-paintbrush/):
 
 ![3dpaintbrush_poster](./assets/3d_paintbrush_cvpr2024_poster_2560x1280.png)
