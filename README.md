@@ -67,7 +67,11 @@ If you want to write mathematical formulas in the poster, enable mathematical ty
 Export:  
 You can export the poster to various file formats. A useful one is a PDF for printing the poster. Usually, a PNG is also required for an online conference platform. You can export these formats (and others) by going to the `File` menu on the top bar -> `Export as` -> Select the file type. Make sure to uncheck the box `Include a copy of my diagram` since it is not needed in our case.
 
-For the PNG format, note that you can select the percentage of the image that will be exported in the `Zoom` box. For the `Size` field, I recommend selecting `Page` to preserve the desired aspect ratio of the poster according to the `Paper Size` you have set before.
+For the PDF format, select `Current page`, `Page View`, and set the `Border Width` to 0, to preserve the desired aspect ratio of the poster according to the `Paper Size` you have set before.
+
+![image](./images/pdf_menu.png)
+
+For the PNG format, note that you can select the percentage of the image that will be exported in the `Zoom` box. For the `Size` field, I recommend selecting `Page` to to keep the `Paper Size` dimentions.
 
 ![image](./images/image_menu.png)
 
