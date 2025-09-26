@@ -95,6 +95,10 @@ Lastly, presenting a poster is an experience you would most likely want to remem
 ### Poster variations
 Here are additional poster examples demonstrating variations of the poster format described above.
 
+[WIR3D](https://threedle.github.io/wir3d/):
+
+![wir3d_poster](./assets/wir3d_iccv2025_poster_5333x3000.png)
+
 [iSeg](https://threedle.github.io/iSeg/):
 
 ![iseg_poster](./assets/iseg_siggraphasia2024_poster_2336x1654.png)
@@ -115,7 +119,7 @@ Here are additional poster examples demonstrating variations of the poster forma
 
 [3D Highlighter](https://threedle.github.io/3DHighlighter/):
 
-![3dhighlighter_poster](./assets/3dhighlighter_cvpr2023_poster_2560x1280.png)
+![3dhighlighter_poster](./assets/3d_highlighter_cvpr2023_poster_2560x1280.png)
 
 [DPC](https://arxiv.org/abs/2110.08636):
 
