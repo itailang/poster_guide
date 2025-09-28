@@ -97,7 +97,7 @@ Here are additional poster examples demonstrating variations of the poster forma
 
 [WIR3D](https://threedle.github.io/wir3d/):
 
-![wir3d_poster](./assets/wir3d_iccv2025_poster_5333x3000.png)
+![wir3d_poster](./assets/wir3d_iccv2025_poster_5120_2880.png)
 
 [iSeg](https://threedle.github.io/iSeg/):
 
