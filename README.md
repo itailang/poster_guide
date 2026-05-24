@@ -95,9 +95,14 @@ Lastly, presenting a poster is an experience you would most likely want to remem
 ### Poster variations
 Here are additional poster examples demonstrating variations of the poster format described above.
 
+[BSB](https://threedle.github.io/bsb/):
+
+![bsb_poster](./assets/bsb_cvpr2026_poster_5120x2560.png)
+[[source file](./assets/bsb_cvpr2026_poster.drawio)]
+
 [WIR3D](https://threedle.github.io/wir3d/):
 
-![wir3d_poster](./assets/wir3d_iccv2025_poster_5120_2880.png)
+![wir3d_poster](./assets/wir3d_iccv2025_poster_5120x2880.png)
 
 [iSeg](https://threedle.github.io/iSeg/):
 
