@@ -97,7 +97,7 @@ Here are additional poster examples demonstrating variations of the poster forma
 
 [MeshFM](https://threedle.github.io/MeshFM/) (ECCV 2026):
 
-![meshfm_poster](./assets/meshfm_eccv2026_poster_2800x2000.png)
+![meshfm_poster](./assets/meshfm_eccv2026_poster_4200x3000.png)
 [[source file](./assets/meshfm_eccv2026_poster.pptx)]
 
 
