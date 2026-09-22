@@ -95,6 +95,12 @@ Lastly, presenting a poster is an experience you would most likely want to remem
 ### Poster variations
 Here are additional poster examples demonstrating variations of the poster format described above.
 
+[MeshFM](https://threedle.github.io/MeshFM/):
+
+![meshfm_poster](./assets/meshfm_eccv2026_poster_2800x2000.png)
+[[source file](./assets/meshfm_eccv2026_poster.pptx)]
+
+
 [BSB](https://threedle.github.io/bsb/):
 
 ![bsb_poster](./assets/bsb_cvpr2026_poster_5120x2560.png)
