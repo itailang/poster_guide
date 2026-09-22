@@ -95,52 +95,52 @@ Lastly, presenting a poster is an experience you would most likely want to remem
 ### Poster variations
 Here are additional poster examples demonstrating variations of the poster format described above.
 
-[MeshFM](https://threedle.github.io/MeshFM/):
+[MeshFM](https://threedle.github.io/MeshFM/) (ECCV 2026):
 
 ![meshfm_poster](./assets/meshfm_eccv2026_poster_2800x2000.png)
 [[source file](./assets/meshfm_eccv2026_poster.pptx)]
 
 
-[BSB](https://threedle.github.io/bsb/):
+[BSB](https://threedle.github.io/bsb/) (CVPR 2026):
 
 ![bsb_poster](./assets/bsb_cvpr2026_poster_5120x2560.png)
 [[source file](./assets/bsb_cvpr2026_poster.drawio)]
 
-[WIR3D](https://threedle.github.io/wir3d/):
+[WIR3D](https://threedle.github.io/wir3d/) (ICCV 2025):
 
 ![wir3d_poster](./assets/wir3d_iccv2025_poster_5120x2880.png)
 
-[iSeg](https://threedle.github.io/iSeg/):
+[iSeg](https://threedle.github.io/iSeg/) (SIGGRAPH Asia 2024):
 
 ![iseg_poster](./assets/iseg_siggraphasia2024_poster_2336x1654.png)
 [[source file](./assets/iseg_siggraphasia2024_poster.drawio)]
 
-[3D Paintbrush](https://threedle.github.io/3d-paintbrush/):
+[3D Paintbrush](https://threedle.github.io/3d-paintbrush/) (CVPR 2024):
 
 ![3dpaintbrush_poster](./assets/3d_paintbrush_cvpr2024_poster_2560x1280.png)
 [[source file](./assets/3d_paintbrush_cvpr2024_poster.drawio)]
 
-[SAGA](https://stoliktomer.github.io/SAGA/):
+[SAGA](https://stoliktomer.github.io/SAGA/) (ICCV 2023):
 
 ![saga_poster](./assets/saga_iccv2023_poster_3645x2140.png)
 
-[Doctoral Consortium](https://cvpr2023.thecvf.com/Conferences/2023/CallForDoctoralConsortium):
+[Doctoral Consortium](https://cvpr2023.thecvf.com/Conferences/2023/CallForDoctoralConsortium) (CVPR 2023):
 
 ![consortium_poster](./assets/doctoral_consortium_cvpr2023_poster_2560x1280.png)
 
-[3D Highlighter](https://threedle.github.io/3DHighlighter/):
+[3D Highlighter](https://threedle.github.io/3DHighlighter/) (CVPR 2023):
 
 ![3dhighlighter_poster](./assets/3d_highlighter_cvpr2023_poster_2560x1280.png)
 
-[DPC](https://arxiv.org/abs/2110.08636):
+[DPC](https://arxiv.org/abs/2110.08636) (3DV 2021):
 
 ![dpc_poster](./assets/dpc_3dv2021_poster_2340x1650.png)
 
-[Geometric attacks](https://arxiv.org/abs/2012.05657):
+[Geometric attacks](https://arxiv.org/abs/2012.05657) (3DV 2021):
 
 ![attacks_poster](./assets/attacks_3dv2021_poster_2340x1650.png)
 
-[SampleNet](https://arxiv.org/abs/1912.03663):
+[SampleNet](https://arxiv.org/abs/1912.03663) (CVPR 2020):
 
 ![samplenet_poster](./assets/samplenet_cvpr2020_poster_3600x2400.png)
 
